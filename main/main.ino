@@ -34,7 +34,7 @@ void loop() {
   rtn = analogRead(LDR);
   Serial.println(rtn); // so para debugar
   
-  for(int i;i<5;i++) digitalWrite(ledsApagados[i], LOW);
+  for(int i=0;i<5;i++) digitalWrite(ledsApagados[i], LOW);
   
   // os valores condicionais sao para o caso de um resistor de
   // 2KOhms ligado ao LDR (vão precisar de ajustes quando for
@@ -44,7 +44,8 @@ void loop() {
   else if(rtn > 300 && rtn <= 350){ ledAceso = VERDE; } //limpa
   else if(rtn > 300 && rtn <= 400){ ledAceso = AMARELO; } //semi-limpa
   else if(rtn > 400 && rtn <= 600){ ledAceso = LARANJA; } //semi-turva
-  else if(rtn > 600 && rtn <= 1012){ ledAceso = VERMELHO; } //turva
+  else if(rtn > 600 && rtn <= 900){ ledAceso = VERMELHO; } //turva
+  else ledAceso = 0;
 
   digitalWrite(ledAceso, HIGH);
   
