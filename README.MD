@@ -1,4 +1,4 @@
-![](../images/schematic.png)
+![](./images/schematic.png)
 
 # ARDUINO BASED TURBIDITY SENSOR
 
