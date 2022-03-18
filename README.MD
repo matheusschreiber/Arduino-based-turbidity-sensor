@@ -39,7 +39,9 @@
     <li>First you have to make the cuts in the box to fit the elements and then place them in the right position, with the LDR just below the cup. It is advisable to paint the box black to help retain more the light. Afterwards, the necessary connections of the components are made on the protoboad, always remembering to position the LEDs in order to facilitate their visualization. Finally, the Arduino is connected to the computer to pass the code and put the system into running. To use, just place your water sample in the appropriate place and see the result based on the color of the LEDs.</li>
 </ul>
 
-<!-- photos, gifs -->
+<h1 align="center">
+    <img src="./images/operation.gif" alt="operation gif">
+</h1>
 
 <br>
 
