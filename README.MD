@@ -39,17 +39,14 @@
     <li>First you have to make the cuts in the box to fit the elements and then place them in the right position, with the LDR just below the cup. It is advisable to paint the box black to help retain more the light. Afterwards, the necessary connections of the components are made on the protoboad, always remembering to position the LEDs in order to facilitate their visualization. Finally, the Arduino is connected to the computer to pass the code and put the system into running. To use, just place your water sample in the appropriate place and see the result based on the color of the LEDs.</li>
 </ul>
 
-<!-- photos, gifs -->
+<h1 align="center">
+    <img src="./images/operation.gif" alt="operation gif">
+</h1>
 
 <br>
 
 ## Simplicity
 > As you can see, despite having a set of relatively simple materials (with components easily found in computer stores and other home materials), the system has a very useful and interesting application that can be extended to some research or extension project, such as a future improvement and implementation in needy communities that, with the help of this equipment, could analyze the quality of the water that arrives in the place where they live and who knows, make an appeal to the authorities, directly improving their quality of life.
-
-<br>
-
-## Disclaimers
-> bla bla bla
 
 <br>
 
