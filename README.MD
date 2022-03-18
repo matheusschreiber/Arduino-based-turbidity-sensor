@@ -1,12 +1,13 @@
-![](./images/schematic.png)
+![](./images/inside.jpg)
 
 # ARDUINO BASED TURBIDITY SENSOR
 
 <p align="center">
     <a href="#Project Description">Project Description</a> •
-    <a href="#How to build it">How To Build</a> •
+    <a href="#How to build it">How to build it</a> •
     <a href="#Simplicity">Simplicity</a> •
-    <a href="#Disclaimers">Photos</a> •
+    <a href="#Photos">Photos</a> •
+    <a href="#Video">Video</a> •
     <a href="#Special Thanks">Special Thanks</a>
 </p>
 
@@ -43,12 +44,20 @@
     <img src="./images/operation.gif" alt="operation gif">
 </h1>
 
+![](./images/schematic.png)
+
 <br>
 
 ## Photos
 
 ![](./images/front.jpg)
-![](./images/inside.jpg)
+
+
+<br>
+
+## Video
+
+> The full presentation can be found here -> https://youtu.be/-e1VBkAoZOs
 
 <br>
 
