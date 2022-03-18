@@ -1,4 +1,6 @@
-![](./images/inside.jpg)
+<h1 align="center">
+    <img src="./images/inside.jpg" alt="inside" width="400">
+</h1>
 
 # ARDUINO BASED TURBIDITY SENSOR
 
@@ -51,6 +53,7 @@
 ## Photos
 
 ![](./images/front.jpg)
+![](./images/inside.jpg)
 
 
 <br>
