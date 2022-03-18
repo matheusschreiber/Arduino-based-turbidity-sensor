@@ -64,6 +64,42 @@
 
 <br>
 
+## About the code
+
+> At the beggining, we manually calibrated the software to get the right values of voltagem as each level of turbidity. But that proved to be really not practical and so we decided that the program has a loop at the beggining, that automatically calibrates itself for the next readings of samples. 
+
+The mantioned part of the code can be seen in here
+
+```c
+int calibra(){
+  double lido = analogRead(LDR);
+  double anterior=0;
+  double diferenca=0;
+
+
+  int vezes=0;
+
+  while(vezes<1000){
+    lido = analogRead(LDR);
+    diferenca = anterior-lido;
+    
+    if (diferenca < 100) {
+      vezes++;
+    } else vezes=0;
+
+    anterior = lido;
+  }
+  
+  parametros[0] = lido;
+  parametros[1] = lido+10;
+  parametros[2] = lido+20;
+  parametros[3] = lido+30;
+ }
+```
+> The rest of the code is pretty simple, and can be directly seen on the git files in this repository.
+
+<br>
+
 ## Simplicity
 > As you can see, despite having a set of relatively simple materials (with components easily found in computer stores and other home materials), the system has a very useful and interesting application that can be extended to some research or extension project, such as a future improvement and implementation in needy communities that, with the help of this equipment, could analyze the quality of the water that arrives in the place where they live and who knows, make an appeal to the authorities, directly improving their quality of life.
 
