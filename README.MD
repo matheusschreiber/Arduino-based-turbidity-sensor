@@ -7,9 +7,10 @@
 <p align="center">
     <a href="#Project Description">Project Description</a> •
     <a href="#How to build it">How to build it</a> •
-    <a href="#Simplicity">Simplicity</a> •
     <a href="#Photos">Photos</a> •
     <a href="#Video">Video</a> •
+    <a href="#About the code">About the code</a> •
+    <a href="#Simplicity">Simplicity</a> •
     <a href="#Special Thanks">Special Thanks</a>
 </p>
 
