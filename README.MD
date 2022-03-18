@@ -3,11 +3,11 @@
 # ARDUINO BASED TURBIDITY SENSOR
 
 <p align="center">
-    <a href="##Project Description">Project Description</a> •
-    <a href="##Simplicity">Simplicity</a> •
-    <a href="##How to build it">How To Bild</a> •
-    <a href="##Disclaimers">Disclaimers</a> •
-    <a href="##Special Thanks">Special Thanks</a>
+    <a href="#Project Description">Project Description</a> •
+    <a href="#How to build it">How To Build</a> •
+    <a href="#Simplicity">Simplicity</a> •
+    <a href="#Disclaimers">Photos</a> •
+    <a href="#Special Thanks">Special Thanks</a>
 </p>
 
 <br>
@@ -45,6 +45,13 @@
 
 <br>
 
+## Photos
+
+![](./images/front.jpg)
+![](./images/inside.jpg)
+
+<br>
+
 ## Simplicity
 > As you can see, despite having a set of relatively simple materials (with components easily found in computer stores and other home materials), the system has a very useful and interesting application that can be extended to some research or extension project, such as a future improvement and implementation in needy communities that, with the help of this equipment, could analyze the quality of the water that arrives in the place where they live and who knows, make an appeal to the authorities, directly improving their quality of life.
 
@@ -63,9 +70,5 @@ Made with 🤍 by
 * MATHEUS SCHREIBER 👏 [See my GitHub](https://github.com/matheusschreiber)
 
 <br>
-
-<h4 align="center">
-🚧 Project 🚀 Under construction ... 🚧
-</h4>
                 
 
