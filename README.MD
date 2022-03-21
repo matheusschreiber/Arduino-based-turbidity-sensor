@@ -33,8 +33,7 @@
     <li>Protoboard</li>
     <li>1 LDR resistor</li>
     <li>5 led's</li>
-    <li>5 x ohms resistors</li>
-    <li>1 x ohm resistor</li>
+    <li>6 330Ω (Ohms) resistors</li>
     <li>Jumpers</li>
 </ul>
 
